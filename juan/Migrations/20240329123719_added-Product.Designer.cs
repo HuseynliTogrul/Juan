@@ -11,7 +11,7 @@ using juan.DataContext;
 namespace juan.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240329121758_added-Product")]
+    [Migration("20240329123719_added-Product")]
     partial class addedProduct
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

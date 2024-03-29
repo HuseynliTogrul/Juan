@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\juan.csproj": {}
+    "C:\\Users\\nihatcha\\Desktop\\Juan\\juan\\juan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\juan.csproj": {
+    "C:\\Users\\nihatcha\\Desktop\\Juan\\juan\\juan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\juan.csproj",
+        "projectUniqueName": "C:\\Users\\nihatcha\\Desktop\\Juan\\juan\\juan.csproj",
         "projectName": "juan",
-        "projectPath": "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\juan.csproj",
+        "projectPath": "C:\\Users\\nihatcha\\Desktop\\Juan\\juan\\juan.csproj",
         "packagesPath": "C:\\Users\\nihatcha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\obj\\",
+        "outputPath": "C:\\Users\\nihatcha\\Desktop\\Juan\\juan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

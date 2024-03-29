@@ -1,86 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nihatcha\\source\\repos\\juan\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{090D7908-45D4-4A3A-B5FC-D314D323AECA}|juan\\juan.csproj|c:\\users\\nihatcha\\source\\repos\\juan\\juan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{090D7908-45D4-4A3A-B5FC-D314D323AECA}|juan\\juan.csproj|solutionrelative:juan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{090D7908-45D4-4A3A-B5FC-D314D323AECA}|juan\\juan.csproj|c:\\users\\nihatcha\\source\\repos\\juan\\juan\\migrations\\20240329121758_added-product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{090D7908-45D4-4A3A-B5FC-D314D323AECA}|juan\\juan.csproj|solutionrelative:juan\\migrations\\20240329121758_added-product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{090D7908-45D4-4A3A-B5FC-D314D323AECA}|juan\\juan.csproj|c:\\users\\nihatcha\\source\\repos\\juan\\juan\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{090D7908-45D4-4A3A-B5FC-D314D323AECA}|juan\\juan.csproj|solutionrelative:juan\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{090D7908-45D4-4A3A-B5FC-D314D323AECA}|juan\\juan.csproj|c:\\users\\nihatcha\\source\\repos\\juan\\juan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{090D7908-45D4-4A3A-B5FC-D314D323AECA}|juan\\juan.csproj|solutionrelative:juan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\nihatcha\\Desktop\\Juan\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240329121758_added-Product.cs",
-              "DocumentMoniker": "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\Migrations\\20240329121758_added-Product.cs",
-              "RelativeDocumentMoniker": "juan\\Migrations\\20240329121758_added-Product.cs",
-              "ToolTip": "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\Migrations\\20240329121758_added-Product.cs",
-              "RelativeToolTip": "juan\\Migrations\\20240329121758_added-Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T12:17:59.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\appsettings.json",
-              "RelativeDocumentMoniker": "juan\\appsettings.json",
-              "ToolTip": "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\appsettings.json",
-              "RelativeToolTip": "juan\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-29T12:14:17.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\Program.cs",
-              "RelativeDocumentMoniker": "juan\\Program.cs",
-              "ToolTip": "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\Program.cs",
-              "RelativeToolTip": "juan\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T12:11:53.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\DataContext\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "juan\\DataContext\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\nihatcha\\source\\repos\\juan\\juan\\DataContext\\AppDbContext.cs",
-              "RelativeToolTip": "juan\\DataContext\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T10:36:15.157Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
